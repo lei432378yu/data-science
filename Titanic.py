@@ -17,7 +17,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix
 from sklearn import metrics
-import random
+import random 
 import matplotlib.pyplot as plt
 from IPython.display import Image  
 from sklearn.tree import export_graphviz
